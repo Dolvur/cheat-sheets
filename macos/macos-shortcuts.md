@@ -13,39 +13,39 @@
 
 ## Cut, copy, paste, and other common shortcuts
 
-| keys | description |
-| --- | --- |
-| ⌘ + x | Cut the selected item and copy it to the Clipboard |
-| ⌘ + c | Copy the selected item to the Clipboard. This also works for files in the Finder |
-| ⌘ + v | Paste the contents of the Clipboard into the current document or app. This also works for files in the Finder |
-| ⌘ + z | Undo the previous comamnd |
-| ⇧ + ⌘ + z | Redo, reversing the undo command |
-| ⌘ + a | Select All items |
-| ⌘ + f | Find items in a document or open a Find window |
-| ⌘ + g | Find Again: Find the next occurrence of the item previously found |
-| ⇧ + ⌘ + G | Find the previous occurrence |
-| ⌘ + h | Hide the windows of the front app |
-| ⌥ + ⌘ + h | View the front app but hide all other apps |
-| ⌘ + m | Minimize the front window to the Dock |
-| ⌥ + ⌘ + m | Minimize all windows of the front app |
-| ⌘ + o | Open the selected item, or open a dialog to select a file to open |
-| ⌘ + p | Print the current document |
-| ⌘ + s | Save the current document |
-| ⌘ + t | Open a new tab |
-| ⌘ + w | Close the front window |
-| ⌥ + ⌘ + w | Close all windows of the app |
-| ⌥ + ⌘ + Esc | Force quit an app |
-| ⌘ + Space | Show or hide the Spotlight search field |
-| ⌘ + ⌥ + Space | Perform a Spotlight search from a Finder window |
-| ⌃ + ⌘ + Space | Show the Character Viewer, from which you can choose emoji and other symbols |
-| ⌃ + ⌘ + f | Use the app in full screen, if supported by the app |
-| Space | Use Quick Look to preview the selected item |
-| ⌘ + Tab | Switch to the next most recently used app among your open apps |
-| ⇧ + ⌘ + 5 | In macOS Mojave or later, take a screenshot or make a screen recording |
-| ⇧ + ⌘ + 3 | Take whole display screenshot |
-| ⇧ + ⌘ + 4 | Take custom screenshot |
-| ⇧ + ⌘ + n | Create a new folder in the Finder |
-| ⌘ + , | Open preferences for the front app |
+| keys          | description                                                                                                   |
+| ------------- | ------------------------------------------------------------------------------------------------------------- |
+| ⌘ + x         | Cut the selected item and copy it to the Clipboard                                                            |
+| ⌘ + c         | Copy the selected item to the Clipboard. This also works for files in the Finder                              |
+| ⌘ + v         | Paste the contents of the Clipboard into the current document or app. This also works for files in the Finder |
+| ⌘ + z         | Undo the previous comamnd                                                                                     |
+| ⇧ + ⌘ + z     | Redo, reversing the undo command                                                                              |
+| ⌘ + a         | Select All items                                                                                              |
+| ⌘ + f         | Find items in a document or open a Find window                                                                |
+| ⌘ + g         | Find Again: Find the next occurrence of the item previously found                                             |
+| ⇧ + ⌘ + G     | Find the previous occurrence                                                                                  |
+| ⌘ + h         | Hide the windows of the front app                                                                             |
+| ⌥ + ⌘ + h     | View the front app but hide all other apps                                                                    |
+| ⌘ + m         | Minimize the front window to the Dock                                                                         |
+| ⌥ + ⌘ + m     | Minimize all windows of the front app                                                                         |
+| ⌘ + o         | Open the selected item, or open a dialog to select a file to open                                             |
+| ⌘ + p         | Print the current document                                                                                    |
+| ⌘ + s         | Save the current document                                                                                     |
+| ⌘ + t         | Open a new tab                                                                                                |
+| ⌘ + w         | Close the front window                                                                                        |
+| ⌥ + ⌘ + w     | Close all windows of the app                                                                                  |
+| ⌥ + ⌘ + Esc   | Force quit an app                                                                                             |
+| ⌘ + Space     | Show or hide the Spotlight search field                                                                       |
+| ⌘ + ⌥ + Space | Perform a Spotlight search from a Finder window                                                               |
+| ⌃ + ⌘ + Space | Show the Character Viewer, from which you can choose emoji and other symbols                                  |
+| ⌃ + ⌘ + f     | Use the app in full screen, if supported by the app                                                           |
+| Space         | Use Quick Look to preview the selected item                                                                   |
+| ⌘ + Tab       | Switch to the next most recently used app among your open apps                                                |
+| ⇧ + ⌘ + 5     | In macOS Mojave or later, take a screenshot or make a screen recording                                        |
+| ⇧ + ⌘ + 3     | Take whole display screenshot                                                                                 |
+| ⇧ + ⌘ + 4     | Take custom screenshot                                                                                        |
+| ⇧ + ⌘ + n     | Create a new folder in the Finder                                                                             |
+| ⌘ + ,         | Open preferences for the front app                                                                            |
 
 ## Sleep, log out, and shut down shortcuts
 
