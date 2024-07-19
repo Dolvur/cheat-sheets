@@ -2,14 +2,14 @@
 
 ## Mac Keyboard Modifier keys
 
-| key | description |
-| --- | --- |
-| ⌘ | ⌘ + / Cmd |
-| ⌃ | Control / Ctrl |
-| ⌥ | ⌥ + s / Alt |
-| ⇧ | Shift |
-| ⇪ | Caps Lock |
-| Fn | Function key |
+| key | description    |
+| --- | -------------- |
+| ⌘   | ⌘ + / Cmd      |
+| ⌃   | Control / Ctrl |
+| ⌥   | ⌥ + s / Alt    |
+| ⇧   | Shift          |
+| ⇪   | Caps Lock      |
+| Fn  | Function key   |
 
 ## Cut, copy, paste, and other common shortcuts
 
