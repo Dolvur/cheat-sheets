@@ -4,17 +4,17 @@
 
 ### Commonly used DNS Records
 
-| Type |  Description |
-| --- | --- |
-| **A** | The record that holds the IP address of a domain. |
-| **AAAA** | The record that contains the IPv6 address for a domain (as opposed to A records, which list the IPv4 address). |
-| **CNAME** | Forwards one domain or subdomain to another domain, does NOT provide an IP address. |
-| **MX** | Directs mail to an email server. |
-| **TXT** | Lets an admin store text notes in the record. These records are often used for email security. |
-| **NS** | Stores the name server for a DNS entry. |
-| **SOA** | Stores admin information about a domain. |
-| **SRV** | Specifies a port for specific services. |
-| **PTR** | Provides a domain name in reverse-lookups. |
+| Type      | Description                                                                                                    |
+| --------- | -------------------------------------------------------------------------------------------------------------- |
+| **A**     | The record that holds the IP address of a domain.                                                              |
+| **AAAA**  | The record that contains the IPv6 address for a domain (as opposed to A records, which list the IPv4 address). |
+| **CNAME** | Forwards one domain or subdomain to another domain, does NOT provide an IP address.                            |
+| **MX**    | Directs mail to an email server.                                                                               |
+| **TXT**   | Lets an admin store text notes in the record. These records are often used for email security.                 |
+| **NS**    | Stores the name server for a DNS entry.                                                                        |
+| **SOA**   | Stores admin information about a domain.                                                                       |
+| **SRV**   | Specifies a port for specific services.                                                                        |
+| **PTR**   | Provides a domain name in reverse-lookups.                                                                     |
 
 ### Less commonly used DNS Records
 
